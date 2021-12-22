@@ -1,0 +1,6 @@
+[submodule "gcta"]
+	path = gcta
+	url = https://github.com/jianyangqt/gcta.git
+[submodule "submodules/biob"]
+	path = submodules/biob
+	url = https://github.com/benjaminfang/biobrary.git
