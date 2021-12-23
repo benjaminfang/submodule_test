@@ -13,3 +13,6 @@
 [submodule "submodules/biot2"]
 	path = submodules/biot2
 	url = https://github.com/benjaminfang/biotools.git
+[submodule "submodules/phytree_collapser"]
+	path = submodules/phytree_collapser
+	url = https://github.com/benjaminfang/phytree_collapser.git
