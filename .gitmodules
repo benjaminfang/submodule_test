@@ -4,3 +4,12 @@
 [submodule "submodules/biob"]
 	path = submodules/biob
 	url = https://github.com/benjaminfang/biobrary.git
+[submodule "submodules/pheweb"]
+	path = submodules/pheweb
+	url = git@github.com:statgen/pheweb.git
+[submodule "submodules/biotools"]
+	path = submodules/biotools
+	url = https://github.com/benjaminfang/biotools.git
+[submodule "submodules/biot2"]
+	path = submodules/biot2
+	url = https://github.com/benjaminfang/biotools.git
